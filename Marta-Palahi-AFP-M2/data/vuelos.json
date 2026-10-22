@@ -1,0 +1,142 @@
+[
+    {
+        "id": "BCN-KIX-01",
+        "origen": "BCN",
+        "destino": "KIX",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 760,
+        "duracionMinutos": 1080,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "BCN-KIX-02",
+        "origen": "BCN",
+        "destino": "KIX",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 910,
+        "duracionMinutos": 900,
+        "escalas": 1,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "BCN-HND-01",
+        "origen": "BCN",
+        "destino": "HND",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 790,
+        "duracionMinutos": 1110,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "BCN-HND-02",
+        "origen": "BCN",
+        "destino": "HND",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 960,
+        "duracionMinutos": 870,
+        "escalas": 1,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "MAD-KIX-01",
+        "origen": "MAD",
+        "destino": "KIX",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 730,
+        "duracionMinutos": 1050,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "MAD-KIX-02",
+        "origen": "MAD",
+        "destino": "KIX",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 895,
+        "duracionMinutos": 870,
+        "escalas": 1,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "MAD-HND-01",
+        "origen": "MAD",
+        "destino": "HND",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 750,
+        "duracionMinutos": 1020,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "MAD-HND-02",
+        "origen": "MAD",
+        "destino": "HND",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 930,
+        "duracionMinutos": 840,
+        "escalas": 1,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "VLC-KIX-01",
+        "origen": "VLC",
+        "destino": "KIX",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 810,
+        "duracionMinutos": 1170,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "VLC-HND-01",
+        "origen": "VLC",
+        "destino": "HND",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 830,
+        "duracionMinutos": 1200,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "AGP-KIX-01",
+        "origen": "AGP",
+        "destino": "KIX",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 840,
+        "duracionMinutos": 1230,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "AGP-HND-01",
+        "origen": "AGP",
+        "destino": "HND",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 850,
+        "duracionMinutos": 1200,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "BIO-KIX-01",
+        "origen": "BIO",
+        "destino": "KIX",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 825,
+        "duracionMinutos": 1200,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    },
+    {
+        "id": "BIO-HND-01",
+        "origen": "BIO",
+        "destino": "HND",
+        "aerolinea": "Compañía internacional",
+        "precioPorPersona": 845,
+        "duracionMinutos": 1170,
+        "escalas": 2,
+        "tipoDato": "simulado"
+    }
+]

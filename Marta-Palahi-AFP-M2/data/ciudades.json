@@ -1,0 +1,391 @@
+[
+    {
+        "id": "tokio",
+        "nombre": "Tokio",
+        "nombreInternacional": "Tokyo",
+        "nombreJapones": "東京",
+        "prefectura": "Tokio",
+        "zona": "este",
+        "ordenGeografico": 7,
+
+        "coordenadas": {
+            "latitud": 35.6762,
+            "longitud": 139.6503,
+            "tipoPunto": "centro-ciudad"
+        },
+
+        "estacionPrincipal": {
+            "id": "tokyo-station",
+            "nombre": "Tokyo Station"
+        },
+
+        "intereses": [
+            "gastronomia",
+            "grandes-ciudades",
+            "anime-tecnologia-compras"
+        ],
+
+        "tiposExperiencia": [
+            "esencial",
+            "equilibrada"
+        ],
+
+        "nivelesPresupuesto": [
+            "medio",
+            "alto"
+        ],
+
+        "diasMinimos": 2,
+        "diasRecomendados": 4,
+
+        "aeropuertosCercanos": [
+            "HND",
+            "NRT"
+        ],
+
+        "esDestinoPrincipal": true,
+
+        "datosGeograficos": {
+            "estadoVerificacion": "contrastado-para-prototipo",
+            "fechaVerificacion": "2026-07",
+            "fuentesReferencia": [
+                "GSI",
+                "MLIT"
+            ]
+        }
+    },
+
+    {
+        "id": "kioto",
+        "nombre": "Kioto",
+        "nombreInternacional": "Kyoto",
+        "nombreJapones": "京都",
+        "prefectura": "Kioto",
+        "zona": "centro-oeste",
+        "ordenGeografico": 3,
+
+        "coordenadas": {
+            "latitud": 35.0116,
+            "longitud": 135.7681,
+            "tipoPunto": "centro-ciudad"
+        },
+
+        "estacionPrincipal": {
+            "id": "kyoto-station",
+            "nombre": "Kyoto Station"
+        },
+
+        "intereses": [
+            "cultura-templos",
+            "gastronomia",
+            "japon-tradicional"
+        ],
+
+        "tiposExperiencia": [
+            "esencial",
+            "equilibrada"
+        ],
+
+        "nivelesPresupuesto": [
+            "ajustado",
+            "medio",
+            "alto"
+        ],
+
+        "diasMinimos": 2,
+        "diasRecomendados": 3,
+
+        "aeropuertosCercanos": [
+            "KIX"
+        ],
+
+        "esDestinoPrincipal": true,
+
+        "datosGeograficos": {
+            "estadoVerificacion": "contrastado-para-prototipo",
+            "fechaVerificacion": "2026-07",
+            "fuentesReferencia": [
+                "GSI",
+                "MLIT"
+            ]
+        }
+    },
+
+    {
+        "id": "osaka",
+        "nombre": "Osaka",
+        "nombreInternacional": "Osaka",
+        "nombreJapones": "大阪",
+        "prefectura": "Osaka",
+        "zona": "oeste",
+        "ordenGeografico": 2,
+
+        "coordenadas": {
+            "latitud": 34.6937,
+            "longitud": 135.5023,
+            "tipoPunto": "centro-ciudad"
+        },
+
+        "estacionPrincipal": {
+            "id": "shin-osaka-station",
+            "nombre": "Shin-Osaka Station"
+        },
+
+        "intereses": [
+            "gastronomia",
+            "grandes-ciudades",
+            "anime-tecnologia-compras"
+        ],
+
+        "tiposExperiencia": [
+            "esencial",
+            "equilibrada"
+        ],
+
+        "nivelesPresupuesto": [
+            "ajustado",
+            "medio",
+            "alto"
+        ],
+
+        "diasMinimos": 1,
+        "diasRecomendados": 2,
+
+        "aeropuertosCercanos": [
+            "KIX"
+        ],
+
+        "esDestinoPrincipal": true,
+
+        "datosGeograficos": {
+            "estadoVerificacion": "contrastado-para-prototipo",
+            "fechaVerificacion": "2026-07",
+            "fuentesReferencia": [
+                "GSI",
+                "MLIT"
+            ]
+        }
+    },
+
+    {
+        "id": "nara",
+        "nombre": "Nara",
+        "nombreInternacional": "Nara",
+        "nombreJapones": "奈良",
+        "prefectura": "Nara",
+        "zona": "centro-oeste",
+        "ordenGeografico": 2.5,
+
+        "coordenadas": {
+            "latitud": 34.6851,
+            "longitud": 135.8048,
+            "tipoPunto": "centro-ciudad"
+        },
+
+        "estacionPrincipal": {
+            "id": "nara-station",
+            "nombre": "Nara Station"
+        },
+
+        "intereses": [
+            "cultura-templos",
+            "naturaleza",
+            "japon-tradicional"
+        ],
+
+        "tiposExperiencia": [
+            "esencial",
+            "equilibrada"
+        ],
+
+        "nivelesPresupuesto": [
+            "ajustado",
+            "medio",
+            "alto"
+        ],
+
+        "diasMinimos": 1,
+        "diasRecomendados": 1,
+
+        "aeropuertosCercanos": [
+            "KIX"
+        ],
+
+        "esDestinoPrincipal": false,
+
+        "datosGeograficos": {
+            "estadoVerificacion": "contrastado-para-prototipo",
+            "fechaVerificacion": "2026-07",
+            "fuentesReferencia": [
+                "GSI",
+                "MLIT"
+            ]
+        }
+    },
+
+    {
+        "id": "hiroshima",
+        "nombre": "Hiroshima",
+        "nombreInternacional": "Hiroshima",
+        "nombreJapones": "広島",
+        "prefectura": "Hiroshima",
+        "zona": "oeste",
+        "ordenGeografico": 1,
+
+        "coordenadas": {
+            "latitud": 34.3853,
+            "longitud": 132.4553,
+            "tipoPunto": "centro-ciudad"
+        },
+
+        "estacionPrincipal": {
+            "id": "hiroshima-station",
+            "nombre": "Hiroshima Station"
+        },
+
+        "intereses": [
+            "cultura-templos",
+            "gastronomia",
+            "naturaleza"
+        ],
+
+        "tiposExperiencia": [
+            "esencial",
+            "equilibrada"
+        ],
+
+        "nivelesPresupuesto": [
+            "ajustado",
+            "medio",
+            "alto"
+        ],
+
+        "diasMinimos": 1,
+        "diasRecomendados": 2,
+
+        "aeropuertosCercanos": [
+            "HIJ"
+        ],
+
+        "esDestinoPrincipal": false,
+
+        "datosGeograficos": {
+            "estadoVerificacion": "contrastado-para-prototipo",
+            "fechaVerificacion": "2026-07",
+            "fuentesReferencia": [
+                "GSI",
+                "MLIT"
+            ]
+        }
+    },
+
+    {
+        "id": "kanazawa",
+        "nombre": "Kanazawa",
+        "nombreInternacional": "Kanazawa",
+        "nombreJapones": "金沢",
+        "prefectura": "Ishikawa",
+        "zona": "centro",
+        "ordenGeografico": 4,
+
+        "coordenadas": {
+            "latitud": 36.5613,
+            "longitud": 136.6562,
+            "tipoPunto": "centro-ciudad"
+        },
+
+        "estacionPrincipal": {
+            "id": "kanazawa-station",
+            "nombre": "Kanazawa Station"
+        },
+
+        "intereses": [
+            "cultura-templos",
+            "gastronomia",
+            "japon-tradicional"
+        ],
+
+        "tiposExperiencia": [
+            "equilibrada",
+            "alternativa"
+        ],
+
+        "nivelesPresupuesto": [
+            "medio",
+            "alto"
+        ],
+
+        "diasMinimos": 1,
+        "diasRecomendados": 2,
+
+        "aeropuertosCercanos": [
+            "KMQ"
+        ],
+
+        "esDestinoPrincipal": false,
+
+        "datosGeograficos": {
+            "estadoVerificacion": "contrastado-para-prototipo",
+            "fechaVerificacion": "2026-07",
+            "fuentesReferencia": [
+                "GSI",
+                "MLIT"
+            ]
+        }
+    },
+
+    {
+        "id": "hakone",
+        "nombre": "Hakone",
+        "nombreInternacional": "Hakone",
+        "nombreJapones": "箱根",
+        "prefectura": "Kanagawa",
+        "zona": "este",
+        "ordenGeografico": 6,
+
+        "coordenadas": {
+            "latitud": 35.2324,
+            "longitud": 139.1069,
+            "tipoPunto": "centro-localidad"
+        },
+
+        "estacionPrincipal": {
+            "id": "hakone-yumoto-station",
+            "nombre": "Hakone-Yumoto Station"
+        },
+
+        "intereses": [
+            "naturaleza",
+            "japon-tradicional"
+        ],
+
+        "tiposExperiencia": [
+            "equilibrada",
+            "alternativa"
+        ],
+
+        "nivelesPresupuesto": [
+            "medio",
+            "alto"
+        ],
+
+        "diasMinimos": 1,
+        "diasRecomendados": 2,
+
+        "aeropuertosCercanos": [
+            "HND",
+            "NRT"
+        ],
+
+        "esDestinoPrincipal": false,
+
+        "datosGeograficos": {
+            "estadoVerificacion": "contrastado-para-prototipo",
+            "fechaVerificacion": "2026-07",
+            "fuentesReferencia": [
+                "GSI",
+                "MLIT"
+            ]
+        }
+    }
+]

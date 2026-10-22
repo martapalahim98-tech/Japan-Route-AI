@@ -1,0 +1,351 @@
+[
+    {
+        "id": "hiroshima-osaka",
+        "origen": "hiroshima",
+        "destino": "osaka",
+        "estacionOrigen": "Hiroshima Station",
+        "estacionDestino": "Shin-Osaka Station",
+        "medio": "Shinkansen",
+        "duracionMinutos": 90,
+        "precioAproximadoYenes": 11000,
+        "transbordos": 0,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "hiroshima-nara",
+        "origen": "hiroshima",
+        "destino": "nara",
+        "estacionOrigen": "Hiroshima Station",
+        "estacionDestino": "Nara Station",
+        "medio": "Shinkansen y tren regional",
+        "duracionMinutos": 160,
+        "precioAproximadoYenes": 11000,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "hiroshima-kioto",
+        "origen": "hiroshima",
+        "destino": "kioto",
+        "estacionOrigen": "Hiroshima Station",
+        "estacionDestino": "Kyoto Station",
+        "medio": "Shinkansen",
+        "duracionMinutos": 105,
+        "precioAproximadoYenes": 11500,
+        "transbordos": 0,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "hiroshima-kanazawa",
+        "origen": "hiroshima",
+        "destino": "kanazawa",
+        "estacionOrigen": "Hiroshima Station",
+        "estacionDestino": "Kanazawa Station",
+        "medio": "Shinkansen y tren",
+        "duracionMinutos": 240,
+        "precioAproximadoYenes": 17500,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "osaka-nara",
+        "origen": "osaka",
+        "destino": "nara",
+        "estacionOrigen": "Osaka Station",
+        "estacionDestino": "Nara Station",
+        "medio": "Tren regional",
+        "duracionMinutos": 45,
+        "precioAproximadoYenes": 820,
+        "transbordos": 0,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "osaka-kioto",
+        "origen": "osaka",
+        "destino": "kioto",
+        "estacionOrigen": "Osaka Station",
+        "estacionDestino": "Kyoto Station",
+        "medio": "Tren",
+        "duracionMinutos": 30,
+        "precioAproximadoYenes": 580,
+        "transbordos": 0,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "osaka-kanazawa",
+        "origen": "osaka",
+        "destino": "kanazawa",
+        "estacionOrigen": "Osaka Station",
+        "estacionDestino": "Kanazawa Station",
+        "medio": "Limited Express y Shinkansen",
+        "duracionMinutos": 165,
+        "precioAproximadoYenes": 9000,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "osaka-hakone",
+        "origen": "osaka",
+        "destino": "hakone",
+        "estacionOrigen": "Shin-Osaka Station",
+        "estacionDestino": "Hakone-Yumoto Station",
+        "medio": "Shinkansen y tren local",
+        "duracionMinutos": 190,
+        "precioAproximadoYenes": 13500,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR Central",
+            "Hakone Tozan Railway"
+        ]
+    },
+    {
+        "id": "osaka-tokio",
+        "origen": "osaka",
+        "destino": "tokio",
+        "estacionOrigen": "Shin-Osaka Station",
+        "estacionDestino": "Tokyo Station",
+        "medio": "Shinkansen",
+        "duracionMinutos": 150,
+        "precioAproximadoYenes": 14500,
+        "transbordos": 0,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR Central"
+        ]
+    },
+    {
+        "id": "nara-kioto",
+        "origen": "nara",
+        "destino": "kioto",
+        "estacionOrigen": "Nara Station",
+        "estacionDestino": "Kyoto Station",
+        "medio": "Tren regional",
+        "duracionMinutos": 50,
+        "precioAproximadoYenes": 760,
+        "transbordos": 0,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "nara-kanazawa",
+        "origen": "nara",
+        "destino": "kanazawa",
+        "estacionOrigen": "Nara Station",
+        "estacionDestino": "Kanazawa Station",
+        "medio": "Tren regional, Limited Express y Shinkansen",
+        "duracionMinutos": 180,
+        "precioAproximadoYenes": 9000,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "nara-hakone",
+        "origen": "nara",
+        "destino": "hakone",
+        "estacionOrigen": "Nara Station",
+        "estacionDestino": "Hakone-Yumoto Station",
+        "medio": "Tren regional, Shinkansen y tren local",
+        "duracionMinutos": 210,
+        "precioAproximadoYenes": 14000,
+        "transbordos": 2,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR Central",
+            "Hakone Tozan Railway"
+        ]
+    },
+    {
+        "id": "nara-tokio",
+        "origen": "nara",
+        "destino": "tokio",
+        "estacionOrigen": "Nara Station",
+        "estacionDestino": "Tokyo Station",
+        "medio": "Tren regional y Shinkansen",
+        "duracionMinutos": 210,
+        "precioAproximadoYenes": 15000,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR Central",
+            "JR West"
+        ]
+    },
+    {
+        "id": "kioto-kanazawa",
+        "origen": "kioto",
+        "destino": "kanazawa",
+        "estacionOrigen": "Kyoto Station",
+        "estacionDestino": "Kanazawa Station",
+        "medio": "Limited Express y Shinkansen",
+        "duracionMinutos": 125,
+        "precioAproximadoYenes": 7700,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR West"
+        ]
+    },
+    {
+        "id": "kioto-hakone",
+        "origen": "kioto",
+        "destino": "hakone",
+        "estacionOrigen": "Kyoto Station",
+        "estacionDestino": "Hakone-Yumoto Station",
+        "medio": "Shinkansen y tren local",
+        "duracionMinutos": 160,
+        "precioAproximadoYenes": 12500,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR Central",
+            "Hakone Tozan Railway"
+        ]
+    },
+    {
+        "id": "kioto-tokio",
+        "origen": "kioto",
+        "destino": "tokio",
+        "estacionOrigen": "Kyoto Station",
+        "estacionDestino": "Tokyo Station",
+        "medio": "Shinkansen",
+        "duracionMinutos": 135,
+        "precioAproximadoYenes": 14000,
+        "transbordos": 0,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR Central"
+        ]
+    },
+    {
+        "id": "kanazawa-hakone",
+        "origen": "kanazawa",
+        "destino": "hakone",
+        "estacionOrigen": "Kanazawa Station",
+        "estacionDestino": "Hakone-Yumoto Station",
+        "medio": "Shinkansen y tren local",
+        "duracionMinutos": 210,
+        "precioAproximadoYenes": 16000,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR East",
+            "Hakone Tozan Railway"
+        ]
+    },
+    {
+        "id": "kanazawa-tokio",
+        "origen": "kanazawa",
+        "destino": "tokio",
+        "estacionOrigen": "Kanazawa Station",
+        "estacionDestino": "Tokyo Station",
+        "medio": "Hokuriku Shinkansen",
+        "duracionMinutos": 150,
+        "precioAproximadoYenes": 14180,
+        "transbordos": 0,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "JR East",
+            "JR West"
+        ]
+    },
+    {
+        "id": "hakone-tokio",
+        "origen": "hakone",
+        "destino": "tokio",
+        "estacionOrigen": "Hakone-Yumoto Station",
+        "estacionDestino": "Tokyo Station",
+        "medio": "Tren",
+        "duracionMinutos": 90,
+        "precioAproximadoYenes": 2500,
+        "transbordos": 1,
+        "bidireccional": true,
+        "tipoDato": "aproximado",
+        "fechaVerificacion": "2026-07",
+        "fuentesReferencia": [
+            "NAVITIME",
+            "Hakone Tozan Railway",
+            "Odakyu"
+        ]
+    }
+]
